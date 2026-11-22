@@ -12,4 +12,4 @@ helm pull oci://ghcr.io/zyvorai/charts/aurora
 
 ## License
 
-Aurora requires a commercial license from Zyvor AI Labs to run; a 30-day trial key is available. See [LICENSE](LICENSE) and [NOTICE](NOTICE). Price: INR 229,999 per workspace per year incl. 18% GST in India; US$2,320 per workspace per year excl. tax elsewhere. Buy: https://zyvor.dev/buy#aurora. Orders of USD 5,000 or more and quotes are invoiced in USD through Skydo. Sales: sales@zyvor.dev
+A 30-day trial is available on request from sales@zyvor.dev (a paid evaluation Order at no charge); production and any other use needs a paid Order under the Zyvor Production Licence v2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE). Price: INR 229,999 per workspace per year incl. 18% GST in India; US$2,320 per workspace per year excl. tax elsewhere. Buy: https://zyvor.dev/buy#aurora. Orders of USD 5,000 or more and quotes are invoiced in USD through Skydo. Sales: sales@zyvor.dev
